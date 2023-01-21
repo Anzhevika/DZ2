@@ -1,0 +1,15 @@
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/Lesson2.csproj.AssemblyReference.cache
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/Lesson2.AssemblyInfoInputs.cache
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/Lesson2.AssemblyInfo.cs
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/Lesson2.csproj.CoreCompileInputs.cache
+/Users/mrphilips/Documents/DZ2/Lesson2/bin/Debug/net6.0/Lesson2
+/Users/mrphilips/Documents/DZ2/Lesson2/bin/Debug/net6.0/Lesson2.deps.json
+/Users/mrphilips/Documents/DZ2/Lesson2/bin/Debug/net6.0/Lesson2.runtimeconfig.json
+/Users/mrphilips/Documents/DZ2/Lesson2/bin/Debug/net6.0/Lesson2.dll
+/Users/mrphilips/Documents/DZ2/Lesson2/bin/Debug/net6.0/Lesson2.pdb
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/Lesson2.dll
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/refint/Lesson2.dll
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/Lesson2.pdb
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/Lesson2.genruntimeconfig.cache
+/Users/mrphilips/Documents/DZ2/Lesson2/obj/Debug/net6.0/ref/Lesson2.dll
